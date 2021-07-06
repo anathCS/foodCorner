@@ -1,0 +1,180 @@
+body{
+    font-family: 'Noto Sans KR', sans-serif;
+    margin:0;
+    margin-top: 0;
+    padding-top:-20px;
+    background-image: url(/shapes/Frame\ 58.jpg);
+}
+.orange-color{
+    color:orange;
+}
+.gray-color{
+    color:gray;
+}
+.notchbar{
+    background-image:linear-gradient(tomato,orange);
+    text-align: center;
+    font-family: 'Noto Sans KR', sans-serif;
+    color:white;  
+}
+.top-section{
+    
+    display:flex;
+    
+
+   width:60%;
+    padding:5%;
+    margin:0 auto;  
+   
+}
+.top-notch-left{
+    text-align: left;
+    color:gray;
+    font-size: 14px;
+    
+}
+.top-notch-right{
+    text-align: right;
+    font-size:14px ;
+    color:gray;
+    
+}
+h1{
+    font-size: 30px;
+}
+p{
+    font-size: 13px;
+    padding-bottom: 30px;
+}
+.health{
+
+    padding-left:5px;
+    padding-top:70px;
+    letter-spacing: 1px;
+    
+}
+.order-food{
+    text-decoration: none;
+    background-image:linear-gradient(orange,tomato);
+    padding:13px 25px;
+    border-radius: 35px;
+    color:white;
+    font-size: 10px;
+    
+}
+.img-1 img{
+    width:50%;
+    padding-top:8%;
+    padding-left:8%;
+    padding-bottom: 3%;
+}
+
+.middle-section{
+    display:flex;
+    background-image: url(/shapes/7.png);
+    background-repeat: no-repeat;
+     width:60%;
+        padding:0 15px;
+        margin:0 auto;
+}
+.img-2 img{
+    width:50%;
+    padding-top:10%;
+    padding-left:20%;
+}
+.about-me{
+    padding-top: 8%;
+    color:gray;
+    padding-bottom: 3%;
+    
+}
+.contact-me{
+    text-decoration: none;
+    background-image:linear-gradient(orange,tomato);
+    margin:50px 20px;
+    padding:10px 20px;
+    border-radius: 35px;
+    color:white;
+    font-size: 12px;
+
+}
+*{
+    margin: 0;
+    padding: 0;
+  }
+  .headingname{
+    width: 100%;
+     text-align: center;
+     margin: 50px 0px;
+     color: gray;
+     
+  }
+  .headingname p{
+    max-width: 500px;
+    margin: auto;
+    padding: 30px;
+  }
+  
+  .containterdiv{
+    width: 100%;
+    display: flex;
+  }
+  .recipie{
+    width:40%;
+    
+  }
+  .recipielist1{
+   max-width: 340px;
+    margin: auto;
+    border-radius: 10px;
+    box-shadow: 0px 1px 10px black;
+  }
+  .recipielist1 img{
+    max-width: 300px;
+    margin: 20px;
+    border-radius: 10px;
+  }
+  .recipielist1 h2{
+    margin: 20px;
+  }
+  .recipielist1 h5{
+    color: rgb(92, 83, 83);
+    margin: 0px 20px 20px 20px;
+    padding-bottom: 20px;
+  }
+  .container1{
+    text-align: center;
+    line-height: 0.5rem;
+    border-radius: 15px;
+    background-color: white;
+    padding: 30px;
+    margin: 50px;
+    box-shadow: 2px 2px 2px 2px rgb(235, 230, 230);
+    width: auto;
+}
+.table{
+    text-align: center;
+    line-height: 0.5rem;
+    border-radius: 15px;
+    width: auto;
+}
+.footer{
+    background-color: #eee;
+    border: 2px solid rgb(241, 237, 237);
+    margin: 0px;
+    padding: 0px;
+}
+.con2{
+    background-color: rgba(0, 0, 0, 0.822);
+    padding: 20px;
+    color: white;
+    text-align: center;
+}
+.footer-menu{
+    text-align: left;
+    margin: 0;
+}
+.footer-right{
+    text-align: right;
+    margin: 0;
+}
