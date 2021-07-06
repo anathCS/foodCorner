@@ -145,7 +145,7 @@ p{
   .container1{
     text-align: center;
     line-height: 0.5rem;
-    border-radius: 15px;
+    border-radius: 20px;
     background-color: white;
     padding: 30px;
     margin: 50px;
@@ -157,6 +157,10 @@ p{
     line-height: 0.5rem;
     border-radius: 15px;
     width: auto;
+}
+.fan-link{
+    text-decoration: none;
+    color:blue;
 }
 .footer{
     background-color: #eee;
